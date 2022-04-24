@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+#define fst  ios::sync_with_stdio(0); cin.tie(0);
+int main()
+{fst
+
+	ll t,cn=0 , p=0;
+	t=1;
+// cin>>t;
+	while(t--)
+	{
+	}
+		return 0;
+	}
