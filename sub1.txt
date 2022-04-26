@@ -21,3 +21,4 @@ int main()
     clone check
     bf1
     bf2
+    bf3
